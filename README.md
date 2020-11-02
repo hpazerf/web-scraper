@@ -1,6 +1,7 @@
 # web-scraper
-Created a Web Scraper using Selenium and then calculating Lift Ratios for Analysis
-Created this project in a group with 4 people including myself
+* Created a Web Scraper using Selenium and then calculating Lift Ratios for Analysis
+* Created this project in a group with 4 people including myself
+* Used Google Colab
 
 # Assignment Overview
 
